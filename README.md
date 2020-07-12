@@ -1,4 +1,4 @@
-![banner](./banner.png)
+![banner](https://github.com/tntmeijs/tntmeijs/raw/master/banner.png)
 
 ---
 
