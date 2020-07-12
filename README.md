@@ -13,7 +13,7 @@
 ---
 
 ### Interesting projects
-* [**Wisp Renderer** - *DirectX 12 renderer that uses NVIDIA's RTX technology*](https://github.com/TeamWisp/WispRenderer)
+* [**Wisp Renderer** - *DirectX 12 renderer using NVIDIA's RTX technology*](https://github.com/TeamWisp/WispRenderer)
 * [**Wisp For Maya** - *Autodesk Maya integration for Wisp Renderer*](https://github.com/TeamWisp/WispForMaya)
 * [**TraceSharp** - *Very basic C# path tracer to demonstrate clean code*](https://github.com/tntmeijs/TraceSharp)
 * [**Game of Life** - *Conway's Game of Life implementation using HTML5 canvas*](https://github.com/tntmeijs/GameOfLife)
