@@ -2,10 +2,10 @@
 
 ---
 
-<p align="center">
+<h1 align="center">
     <strong>
         Software Engineer at <a href="https://sumo-digital.com/">Sumo Digital</a>.
         <br>
         Interested in anything graphics, games, and IoT.
     </strong>
-</p>
+</h1>
