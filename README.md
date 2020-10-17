@@ -4,15 +4,16 @@
 
 <p align="center">
     <strong>
-        Software Engineer at <a href="https://sumo-digital.com/">Sumo Digital</a>.
+        Software Engineer at <a href="https://www2.deloitte.com/nl/nl.html">Deloitte Nederland</a>.
         <br>
-        Interested in anything graphics, games, and IoT.
+        Interested in anything graphics, games, software, and IoT.
     </strong>
 </p>
 
 ---
 
 ### Interesting projects
+* [**NES Emulator** - *Simple NES emulator written using modern C++.*](https://github.com/tntmeijs/NES)
 * [**Wisp Renderer** - *DirectX 12 renderer using NVIDIA's RTX technology*](https://github.com/TeamWisp/WispRenderer)
 * [**Wisp For Maya** - *Autodesk Maya integration for Wisp Renderer*](https://github.com/TeamWisp/WispForMaya)
 * [**TraceSharp** - *Very basic C# path tracer to demonstrate clean code*](https://github.com/tntmeijs/TraceSharp)
