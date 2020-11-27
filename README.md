@@ -12,6 +12,8 @@
 
 ---
 
+![Tahar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tntmeijs&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
+
 ### Interesting projects
 * [**NES Emulator** - *Simple NES emulator written using modern C++.*](https://github.com/tntmeijs/NES)
 * [**Wisp Renderer** - *DirectX 12 renderer using NVIDIA's RTX technology*](https://github.com/TeamWisp/WispRenderer)
