@@ -4,7 +4,7 @@
 
 <p align="center">
     <strong>
-        Software Engineer at <a href="https://www2.deloitte.com/nl/nl.html">Deloitte Nederland</a>.
+        Software Engineer by day, game developer by night.
         <br>
         Interested in anything graphics, games, software, and IoT.
     </strong>
