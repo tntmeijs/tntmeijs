@@ -31,4 +31,5 @@
 ### Contact me
 * [**Twitter** - @tntmeijs](https://twitter.com/tntmeijs)
 * [**LinkedIn** - /in/tntmeijs](https://www.linkedin.com/in/tntmeijs)
-* [**Portfolio** - my own website](https://taharmeijs.com/)
+* [**Portfolio** - Outdated domain, will be removed in the future](https://taharmeijs.com/)
+* [**Personal website** - *New domain, will be used as my main domain from 2022 onwards*](https://tahar.dev)
