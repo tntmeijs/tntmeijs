@@ -17,6 +17,7 @@
 
 ### Projects I'm currently working on:
 * [**Webby** - *Rust web server written from scratch*](https://github.com/tntmeijs/webby)
+* [**Personal website** - *My own little corner on the internet*](https://tahar.dev)
 
 ### Interesting projects
 * [**NES Emulator** - *Simple NES emulator written using modern C++.*](https://github.com/tntmeijs/NES)
