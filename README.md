@@ -16,7 +16,6 @@
 ![Tahar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tntmeijs&layout=compact)
 
 ### Projects I'm currently working on:
-* [**Webby** - *Rust web server written from scratch*](https://github.com/tntmeijs/webby)
 * [**Personal website** - *My own little corner on the internet*](https://tahar.dev)
 
 ### Interesting projects
