@@ -16,6 +16,7 @@
 ![Tahar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tntmeijs&layout=compact)
 
 ### Projects I'm currently working on:
+* [**[UNNAMED PROJECT]** - *A Rust-based web application built on top of Rocket.rs*](#)
 * [**Personal website** - *My own little corner on the internet*](https://tahar.dev)
 
 ### Interesting projects
