@@ -16,11 +16,12 @@
 ![Tahar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tntmeijs&layout=compact)
 
 ### Projects I'm currently working on:
+* [**GitBoss** - *Basic Git GUI client using Tauri.studio and ReactJS*](https://github.com/tntmeijs/gitboss)
 * [**[UNNAMED PROJECT]** - *A Rust-based web application built on top of Rocket.rs*](#)
 * [**Personal website** - *My own little corner on the internet*](https://tahar.dev)
 
 ### Interesting projects
-* [**NES Emulator** - *Simple NES emulator written using modern C++.*](https://github.com/tntmeijs/NES)
+* [**NES Emulator** - *Simple NES emulator written using modern C++ (CPU emulation only).*](https://github.com/tntmeijs/NES)
 * [**Wisp Renderer** - *DirectX 12 renderer using NVIDIA's RTX technology*](https://github.com/TeamWisp/WispRenderer)
 * [**Wisp For Maya** - *Autodesk Maya integration for Wisp Renderer*](https://github.com/TeamWisp/WispForMaya)
 * [**TraceSharp** - *Very basic C# path tracer to demonstrate clean code*](https://github.com/tntmeijs/TraceSharp)
