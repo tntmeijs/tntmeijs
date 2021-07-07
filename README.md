@@ -16,7 +16,7 @@
 ![Tahar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tntmeijs&layout=compact)
 
 ### Projects I'm currently working on:
-* [**Onyx** - *Simple message broker system written from scratch using TCP communication*](https://github.com/tntmeijs/onyx)
+* [**Vault** - *Simple version control system written in Rust*](https://github.com/tntmeijs/vault)
 * [**Personal website** - *My own little corner on the internet*](https://tahar.dev)
 
 ### Interesting projects
