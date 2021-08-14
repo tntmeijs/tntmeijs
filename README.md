@@ -16,7 +16,7 @@
 ![Tahar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tntmeijs&layout=compact)
 
 ### Projects I'm currently working on:
-* [**Chartdown** - *Create charts with Markdown-like syntax*](https://github.com/tntmeijs/chartdown)
+* [**Unannounced SaaS project** - *To be revealed...*](https://tahar.dev)
 * [**Personal website** - *My own little corner on the internet*](https://tahar.dev)
 
 ### Interesting projects
