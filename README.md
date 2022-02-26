@@ -4,9 +4,9 @@
 
 <p align="center">
     <strong>
-        Software Engineer by day, game developer by night.
-        <br>
         Interested in anything graphics, games, software, and IoT.
+        <br/>
+        Java • C++ • JavaScript • C# • Rust
     </strong>
 </p>
 
