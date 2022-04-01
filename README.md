@@ -16,6 +16,7 @@
 ![Tahar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tntmeijs&layout=compact)
 
 ### Projects I'm currently working on:
+* [**Lightspeed** - *Stacked diffs command-line utility written in Go*](https://github.com/tntmeijs/lightspeed)
 * [**Jadis** - *Java Virtual Machine language disassembler written in Rust*](https://github.com/tntmeijs/jadis)
 * [**Dunlin** - *WebGL & ReactJS panoramic video editor*](https://github.com/tntmeijs/dunlin)
 * [**Personal website** - *My own little corner on the internet*](https://tahar.dev)
