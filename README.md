@@ -17,6 +17,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/tntmeijs/github-profile-trophy)
 
 ### Projects I'm currently working on:
+* [**Plain** - *Super basic C++ webbrowser written from scratch*](https://github.com/tntmeijs/plain)
 * [**PiTona** - *OBD2 scanner for my Triumph Daytona 675 motorcycle*](https://github.com/tntmeijs/pitona)
 * [**GBRS** - *Nintendo GameBoy emulator written in Rust*](https://github.com/tntmeijs/gbrs)
 * [**Jadis** - *Java Virtual Machine language disassembler written in Rust*](https://github.com/tntmeijs/jadis)
