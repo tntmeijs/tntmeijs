@@ -6,7 +6,7 @@
     <strong>
         Interested in anything graphics, games, software, and IoT.
         <br/>
-        Java • Go • JavaScript • Rust
+        Java • Go • C++ • Rust
     </strong>
 </p>
 
