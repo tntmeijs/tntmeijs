@@ -17,6 +17,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/tntmeijs/github-profile-trophy)
 
 ### Projects I'm currently working on:
+* [**Kafkalyze** - *The ultimate Kafka debugging tool*](https://github.com/tntmeijs/kafkalyze)
 * [**Plain** - *Super basic C++ webbrowser written from scratch*](https://github.com/tntmeijs/plain)
 * [**PiTona** - *OBD2 scanner for my Triumph Daytona 675 motorcycle*](https://github.com/tntmeijs/pitona)
 
