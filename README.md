@@ -1,4 +1,4 @@
-![banner](https://github.com/tntmeijs/tntmeijs/raw/master/banner.png)
+![banner](./media/banner.png)
 
 ---
 
@@ -12,4 +12,5 @@
 
 ---
 
-![tahar meijs' resume](https://raw.githubusercontent.com/tntmeijs/resume/refs/heads/main/backend_software_engineer.png)
+![tahar meijs' resume](./media/resume_0.png)
+![tahar meijs' resume](./media/resume_1.png)
